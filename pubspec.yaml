@@ -1,8 +1,8 @@
-name: flutter_responsive
+name: smart_responsive
 description: A responsive ui builder for flutter
 version: 0.0.1
 author: Sayeed Afridi
-homepage: https://sayeedafridi.github.io
+homepage: https://sayeedafridi.github.io/
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
