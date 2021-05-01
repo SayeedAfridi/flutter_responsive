@@ -1,7 +1,11 @@
-library responsive;
+library flutter_responsive;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+import 'package:flutter/material.dart';
+
+part 'enums/device_screen_type.dart';
+part 'utils/ui_utils.dart';
+
+part 'responsive_builder.dart';
+part 'sizing_information.dart';
+part 'orientation_layout.dart';
+part 'screen_type_layout.dart';
